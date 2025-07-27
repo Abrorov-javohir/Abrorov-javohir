@@ -21,17 +21,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ![Javohir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrorov-javohir&show_icons=true&theme=dracula)
+
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorov-javohir&hide_progress=true)
