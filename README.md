@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abrorovjavohir17@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/javohir-abrorov-253a112b7/](https://www.linkedin.com/in/javohir-abrorov-253a112b7/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/javohir-abrorov-253a112b7/](https://www.linkedin.com/in/javohir-abrorov-253a112b7//))
 
 
 <h3 align="left">Languages and Tools:</h3>
