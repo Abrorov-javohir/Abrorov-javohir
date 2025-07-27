@@ -21,7 +21,6 @@
 
 
 
-![Javohir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrorov-javohir&show_icons=true&theme=dracula)
 
 
 
@@ -32,6 +31,7 @@
 
 [![Abrorov-javohir's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Abrorov-javohir&theme=dracula)]((https://github-readme-streak-stats.herokuapp.com/?user=Abrorov-javohir&theme=dracula))
 
+![Javohir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrorov-javohir&show_icons=true&theme=dracula)
 
 
 
