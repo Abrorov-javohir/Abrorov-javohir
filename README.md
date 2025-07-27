@@ -15,3 +15,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorov-javohir&hide_progress=true)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Abrorov-javohir/github-readme-stats)
