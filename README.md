@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrorov Javohir</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 
 - 📫 How to reach me **abrorovjavohir17@gmail.com**
 
@@ -17,4 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrorov-javohir&hide_progress=true)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Abrorov-javohir/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/a22d037f-37f3-42fb-aa8d-e43994fe0816.svg)](https://wakatime.com/@a22d037f-37f3-42fb-aa8d-e43994fe0816)
